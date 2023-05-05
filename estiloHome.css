@@ -1,0 +1,49 @@
+.card-links {
+  padding-left: 10px;
+}
+
+.conteudo-card-links {
+  margin: auto;
+  max-width: fit-content;
+  max-height: min-content;
+  padding: calc(1rem / 3);
+  position: sticky;
+  top: 4rem;
+}
+
+
+
+
+
+
+
+
+
+.btn {
+  margin-bottom: 1rem;
+}
+
+#rowCards {
+    display: flex;
+    margin: auto;
+    width: 95%;
+    margin-top: 3rem;
+}
+
+.card-timeline {
+  display: flex; 
+  max-height: fit-content;
+  max-width: 35rem;
+  margin: auto;
+  margin-bottom: 1rem;
+  padding: calc(1rem * 0.75);
+}
+.area-card { 
+  position: relative;
+}
+.class-img {
+  max-height: 13rem; max-width: auto;
+}
+.div-texto {
+  padding-left: 1rem;
+}
